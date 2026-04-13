@@ -1,0 +1,20 @@
+# GitHub Pages configuration
+# Autonomous Fleet Systems — TSummersLab
+
+title: "Autonomous Fleet Systems"
+description: >
+  A multi-robot systems research project developing a testbed for
+  swarm robotics and intelligence at UT Dallas.
+
+url: "https://tsummerslab.github.io"
+baseurl: ""
+
+# We're using a plain HTML file, not Jekyll themes.
+# This config just sets metadata for GitHub Pages.
+
+# Exclude files that don't need to be published
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - "*.tex"
+  - "*.pdf"
