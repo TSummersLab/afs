@@ -7,7 +7,7 @@ description: >
   swarm robotics and intelligence at UT Dallas.
 
 url: "https://tsummerslab.github.io"
-baseurl: ""
+baseurl: "/afs"
 
 # We're using a plain HTML file, not Jekyll themes.
 # This config just sets metadata for GitHub Pages.
